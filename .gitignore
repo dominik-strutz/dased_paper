@@ -16,7 +16,6 @@ test/
 *.pdf
 
 *.pkl
-*.csv
 *.npy
 
 .vscode/
