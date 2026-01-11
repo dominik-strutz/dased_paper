@@ -15,7 +15,6 @@ test/
 *.png
 *.pdf
 
-*.pkl
 *.npy
 
 .vscode/
