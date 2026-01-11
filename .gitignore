@@ -5,10 +5,10 @@ build/
 dist/
 wheels/
 *.egg-info
+test/
 
 # Virtual environments
 *.venv
-*.nc
 *.nd
 *.npz
 
@@ -17,9 +17,8 @@ wheels/
 
 *.pkl
 *.csv
-*.nc
 *.pt
-
+*.npy
 
 .vscode/
 sections/
